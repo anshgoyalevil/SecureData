@@ -2,3 +2,5 @@
 data/
 # Ignore all key files
 *.pem
+# Ignore all decrypted data
+decrypted/
