@@ -5,6 +5,7 @@ It's secure enough that you can store your passwords on a public repository. Jus
 ### How it works?
 
 - It uses [`encryptox`](https://www.npmjs.com/package/encryptox) npm package to encrypt the data using AES-256-CBC Algorithm.
+- `encryptox` is also developed by me. Feel free to checkout :)
 
 ### How to use it?
 
